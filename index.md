@@ -7,6 +7,9 @@ Here's a powershell example
 Write-Host 'Hello world!'
 ```
 ### This is H3
+- [x] Turn onGitHub pages
+- [ ] Outline my portfolio
+- [ ] Introduce myself to the world
 #### This is H4
 ##### This is H5
 ###### This is H6
